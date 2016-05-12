@@ -18,6 +18,8 @@ public class Gogoldo {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Amo mucho a gogoldo amo mucho");
+                JOptionPane.showMessageDialog(null, "Eres el amor de mi vida");
+
     }
     
 }
